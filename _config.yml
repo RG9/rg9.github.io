@@ -132,7 +132,7 @@ share-links-active:
 # Staticman support
 staticman:
   repository : "RG9/rg9.github.io"
-  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  branch     : "master"
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)

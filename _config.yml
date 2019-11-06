@@ -137,8 +137,8 @@ staticman:
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+    siteKey  : "6LePFioTAAAAAB0rkxGhXKgpRRiErr2mq5QkAtl8"
+    secret   : "BTZ0o3KUOLaZgaU6DIXlHKtiV4YDwaIea/PJnMTAnn9Pku70T88hxuNjam8nMmo+nz5Ga60eSPOVfjzctjYtpJP8f8MMImPQZDRowP1/vlYABQY7Z2HHcIJ9l9gG/6iBGt18XXhyiMmmg/VicnwzuC9MTo2JkYxv8TOAutA4xmNf67cwg0+P08tdFcOvSjOMLUB3drCiK6LUghVjAKHrByRPAnBmmIccVFBusjPAsFS1ljq0W5jwtE/BkKRNZmkqcgVa4ab92OSb7J5cji2As7pb7CDR2TcxfPnvqddsbKjfC4e54FdRYKujQuuCppW5igS8CEqDI61mMYOFm+SSSg=="
 
 # --- Misc --- #
 

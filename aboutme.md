@@ -4,13 +4,14 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Hi, my name is Rafał.
+I'm engineering software as a professional since 2012.
+I mostly programming in Java.
+I like clean code, effective teamwork and automating things, because "everything is code" ;)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Motivation of this blog
+"Learn, share, scale!" by [Sacha Chua](https://sachachua.com/blog/)
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Feedback welcome
+Leave comments on blog posts, create pull request, or write me private message.

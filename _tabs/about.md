@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hi, I'm Raf!
+## Hi, I'm Rafał!
 
 Welcome to my blog! I'm a passionate software developer specializing in backend [Java](/tags/java) development.
 Over the years, I've had the opportunity to work on a variety of projects that have deepened my expertise and "fueled" my
